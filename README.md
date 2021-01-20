@@ -24,9 +24,15 @@ Modüller | Okuma | Kaynaklar
 
 
 Uygulama kapsamında kişinin takip edeceği stres ve kaygıyla başa çıkma programı toplam 6 modülden oluşmaktadır.
+<br>
 1.modül stres ve stresin etkilerini,
+<br>
 2.modül düşünce-duygu-davranış ilişkisini,
+<br>
 3.modül kaygı ve kaygıyla başa çıkmayı,
+<br>
 4.modül harekete geçme becerilerini,
+<br>
 5.modül stres veren ve kaygılandıran düşünceleri fark etme ve değerlendirmeyi,
+<br>
 6.modül ise kaygılandıran düşüncelere alternatif düşünce oluşturmayı içermektedir.
