@@ -14,13 +14,13 @@ App Store için [tıklayınız](https://apps.apple.com/tr/app/say-stres-ve-anksi
 
 Giriş Seçimi | Ana Sayfa | Rahatlama Seansları
 ------------ | ------------- | ------------- 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Giris%CC%A7.png" alt="EpostaGiriş" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/EpostaGiris%CC%A7.png" alt="EpostaGiriş" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/S%CC%A7ifremiUnuttum.png" alt="ŞifremiUnuttum" width="200" height="422">
+<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-loginPage.png" alt="EpostaGiriş" width="200" height="422"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-homePage.png" alt="Ana Sayfa" width="200" height="422"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-rahatlama.png" alt="Rahatlama Seansları" width="200" height="422">
 
 
 
 Modüller | Okuma | Kaynaklar
 ------------ | ------------- | ------------- 
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
+<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-modu%CC%88l.png" alt="Modüller" width="200" height="422"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-okuma.png" alt="Okuma" width="200" height="422"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-kaynaklar.png" alt="Kaynaklar" width="200" height="422">
 
 
 Uygulama kapsamında kişinin takip edeceği stres ve kaygıyla başa çıkma programı toplam 6 modülden oluşmaktadır.
