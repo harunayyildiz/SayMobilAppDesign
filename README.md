@@ -14,13 +14,13 @@ App Store için [tıklayınız](https://apps.apple.com/tr/app/say-stres-ve-anksi
 
 Giriş Seçimi | Ana Sayfa | Rahatlama Seansları
 ------------ | ------------- | ------------- 
-<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-loginPage.png" alt="EpostaGiriş" width="200" height="400"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-homePage.png" alt="Ana Sayfa" width="200" height="400"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-rahatlama.png" alt="Rahatlama Seansları" width="200" height="400">
+<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-loginPage.png" alt="EpostaGiriş" width="200" height="356"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-homePage.png" alt="Ana Sayfa" width="200" height="356"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-rahatlama.png" alt="Rahatlama Seansları" width="200" height="356">
 
 
 
 Modüller | Okuma | Kaynaklar
 ------------ | ------------- | ------------- 
-<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-modu%CC%88l.png" alt="Modüller" width="200" height="400"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-okuma.png" alt="Okuma" width="200" height="400"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-kaynaklar.png" alt="Kaynaklar" width="200" height="400">
+<img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-modu%CC%88l.png" alt="Modüller" width="200" height="356"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-okuma.png" alt="Okuma" width="200" height="356"> | <img src="https://github.com/harunayyildiz/SayMobilAppDesign/blob/main/iphone8-say-kaynaklar.png" alt="Kaynaklar" width="200" height="356">
 
 
 Uygulama kapsamında kişinin takip edeceği stres ve kaygıyla başa çıkma programı toplam 6 modülden oluşmaktadır.
