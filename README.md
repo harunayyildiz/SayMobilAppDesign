@@ -23,4 +23,10 @@ Modüller | Okuma | Kaynaklar
 <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilBilgileri.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir.png" alt="Profil Bilgileri" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/ProfilFotograf%C4%B1Deg%CC%86is%CC%A7tir2.png" alt="Profil Bilgileri" width="200" height="422">
 
 
-
+Uygulama kapsamında kişinin takip edeceği stres ve kaygıyla başa çıkma programı toplam 6 modülden oluşmaktadır.
+1.modül stres ve stresin etkilerini,
+2.modül düşünce-duygu-davranış ilişkisini,
+3.modül kaygı ve kaygıyla başa çıkmayı,
+4.modül harekete geçme becerilerini,
+5.modül stres veren ve kaygılandıran düşünceleri fark etme ve değerlendirmeyi,
+6.modül ise kaygılandıran düşüncelere alternatif düşünce oluşturmayı içermektedir.
